@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# custom
+UPDATED-NLP-COURSE.zip
+UPDATED-NLP-COURSE/
