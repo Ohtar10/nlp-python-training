@@ -1,0 +1,2 @@
+Here I can write anything I want and the content will be written into the file specified in the file above.
+This is a cool magic.
