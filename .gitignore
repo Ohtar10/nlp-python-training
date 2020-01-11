@@ -107,3 +107,4 @@ venv.bak/
 UPDATED-NLP-COURSE.zip
 UPDATED-NLP-COURSE/
 material/
+datasets/*.txt

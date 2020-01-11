@@ -1,6 +1,7 @@
 name: nlp_training
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - pip
   - spacy=2.0.16
@@ -11,4 +12,6 @@ dependencies:
   - nltk=3.3.0
   - scikit-learn
   - jupyter
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
 
