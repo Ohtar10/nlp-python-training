@@ -105,6 +105,6 @@ venv.bak/
 
 # custom
 UPDATED-NLP-COURSE.zip
-UPDATED-NLP-COURSE/
+UPDATED_NLP_COURSE/
 material/
 datasets/*.txt
